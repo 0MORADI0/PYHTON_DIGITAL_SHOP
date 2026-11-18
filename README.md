@@ -1,3 +1,10 @@
+<img width="859" height="527" alt="Screenshot 2026-11-18 034410" src="https://github.com/user-attachments/assets/28611b5f-8f26-484d-9d97-3c5d77621bf7" />
+<img width="859" height="588" alt="Screenshot 2026-11-18 034153" src="https://github.com/user-attachments/assets/3dbd065f-8b33-4f7c-94ca-09460ad41d27" />
+![Uploading Screenshot 2026-11-18 035832.png…]()
+<img width="862" height="656" alt="Screenshot 2026-11-18 035257" src="https://github.com/user-attachments/assets/e49afcf5-51b6-4ee8-91e6-a4e93d0d0bb6" />
+
+
+
 # Python Digital Shop
 
 A desktop digital shop application built with Python, Tkinter, and SQLite.
